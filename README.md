@@ -6,7 +6,7 @@ Opencore EFI for B550M Aorus Pro AX
 
 | COMPONENTS | MODEL                                 |
 |------------|---------------------------------------|
-| CPU        | AMD Ryzen 5 5600X.                    |
+| CPU        | AMD Ryzen 5 5600X                     |
 | RAM        | 16 GiB@3600MHz DDR4                   |
 | GPU        | PowerColor Red Devil RX 6600 XT       |
 | WiFi       | Intel® Wi-Fi 6 AX200                  |
