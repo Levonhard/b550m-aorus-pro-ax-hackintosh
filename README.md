@@ -1,4 +1,4 @@
-# B550m Aorus Pro AX Hackintosh
+# B550M Aorus Pro AX Hackintosh
 Opencore EFI for B550M Aorus Pro AX
 <img src="https://github.com/Levonhard/b550m-aorus-pro-ax-hackintosh/blob/main/screenshot-monterey.png">
 
@@ -41,3 +41,6 @@ Opencore EFI for B550M Aorus Pro AX
 
 ### OPENCORE EFI SETUP
 - Generate your own SMBIOS
+
+## NOTE
+I'm using F5c Bios version
