@@ -29,7 +29,8 @@ Opencore EFI for B550M Aorus Pro AX
 ## GUIDE
 ### BIOS SETUP
 ```diff
-- disable "Trusted Computing"
+- disable "Serial Port" under "Super IO Configuration"
+- disable "Trusted Computing" (This setting can be enabled after installation)
 - disable "wake" and "boot over LAN"
 - disable "CSM Support"
 + enable "Power Loading" in "Platform Power settings"
