@@ -90,6 +90,15 @@
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
+						<data>
+						DAAAAA==
+						</data>
+					</dict>
+					<key>HS07</key>
+					<dict>
+						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
 						<data>
