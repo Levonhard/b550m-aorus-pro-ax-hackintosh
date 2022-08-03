@@ -242,6 +242,21 @@
 				<key>layout-id</key>
 				<data>CwAAAA==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>shikigva</key>
+				<integer>128</integer>
+				<key>unfairgva</key>
+				<data>AQAAAA==</data>
+				<key>@0,name</key>
+				<string>ATY,Deepbay</string>
+				<key>@1,name</key>
+				<string>ATY,Deepbay</string>
+				<key>@2,name</key>
+				<string>ATY,Deepbay</string>
+				<key>@3,name</key>
+				<string>ATY,Deepbay</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
