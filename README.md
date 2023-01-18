@@ -19,8 +19,8 @@ Opencore EFI for B550M Aorus Pro AX
 - [x] Intel WiFi and Bluetooth
 - [x] Internal Speakers
 - [x] Apple Services (iCloud, Apple Music, Apple TV, others..)
-- [x] Sleep Mode
 - [x] Fan Control
+- [ ] Sleep Mode
 - [ ] Mic
 
 ### NOT TESTED
