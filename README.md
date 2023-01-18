@@ -1,6 +1,6 @@
 # B550M Aorus Pro AX Hackintosh
 Opencore EFI for B550M Aorus Pro AX
-<img src="https://github.com/Levonhard/b550m-aorus-pro-ax-hackintosh/blob/main/screenshot-monterey.png">
+<img src="https://github.com/Levonhard/b550m-aorus-pro-ax-hackintosh/blob/monterey/screenshot-monterey.png">
 
 ## MY PC SPECS
 
